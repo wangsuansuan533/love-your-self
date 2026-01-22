@@ -10,18 +10,3 @@
 - **治愈空间**：自适应的动态4K背景视频
 - **莫兰迪色系**：柔和的视觉体验
 
-## 🚀 部署说明
-
-### 环境变量
-在Vercel部署时添加环境变量：
-```
-GEMINI_API_KEY=AIzaSyBevHDfQlmEtxdG30MNXtCIo66OOYH1-jc
-```
-
-### 本地运行
-```bash
-npm install
-npm run dev
-```
-
-访问 http://localhost:3000
